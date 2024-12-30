@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kei.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="funkcity" x="0" y="0" width="640" height="640"/>
+	<SubTexture name="imkei" x="640" y="0" width="640" height="640"/>
+	<SubTexture name="know" x="1280" y="0" width="640" height="640"/>
+	<SubTexture name="stress" x="1920" y="0" width="640" height="640"/>
+</TextureAtlas>

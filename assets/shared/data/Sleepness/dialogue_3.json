@@ -1,0 +1,140 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "look",
+			"text": "Excuse me? Can you tell me the way to the Funk City?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kei",
+			"boxState": "normal",
+			"expression": "funkcity",
+			"text": "Funk City?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kei",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeh I know, go straight, turn right then go straight again. It'll take you guys 15 mins to get there."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "cheer",
+			"text": "Thanks!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "look",
+			"text": "Also why are you sitting there?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "look",
+			"text": "Why don't you sleep?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kei",
+			"boxState": "normal",
+			"expression": "stress",
+			"text": "I can't"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "look",
+			"text": "Why?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kei",
+			"boxState": "normal",
+			"expression": "stress",
+			"text": "Stress in life. That's why I can't sleep for a whole week..."
+		},
+		{
+			"sound": "",
+			"speed": 0.015,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "wholeweek",
+			"text": "A WHOLE WEEK?!"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHHHHHHHHHHHHHHHH!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kei",
+			"boxState": "normal",
+			"expression": "stress",
+			"text": "Yeah.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "cheer",
+			"text": "Oh. Sorry to hear that, can I just...cheer you up by singing a song?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kei",
+			"boxState": "normal",
+			"expression": "imkei",
+			"text": "Hm... Let's giving a try.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kei",
+			"boxState": "normal",
+			"expression": "imkei",
+			"text": "By the way, i'm Kei. Glad to meet ya"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "cheer",
+			"text": "Call me Boyfriend. Glad to meet you too"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "noworry",
+			"text": "Also i thought you were asleep"
+		}
+	]
+}

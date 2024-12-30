@@ -1,0 +1,116 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		50,
+		-110
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "asleep",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "asleep",
+			"anim": "asleep",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "beer",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "beer",
+			"anim": "beer",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "cheer",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "cheer",
+			"anim": "cheer",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "look",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "look",
+			"anim": "look",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "oh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "oh",
+			"anim": "oh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "what",
+			"anim": "what",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "wholeweek",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "wholeweek",
+			"anim": "wholeweek",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "yawn",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "yawn",
+			"anim": "yawn",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "boyfriend"
+}

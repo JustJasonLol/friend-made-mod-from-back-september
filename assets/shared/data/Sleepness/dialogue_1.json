@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"expression": "beer",
+			"text": "At least we didn't drink so much beer",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "bet",
+			"text": "Yeh, bet!",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "yawn",
+			"text": "...",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I feel asleep now, can we return home more quickly",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "noworry",
+			"text": "Don't worry we're going to",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "ah",
+			"text": "ah...",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "oh",
+			"text": "What's wrong?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "guysitting",
+			"text": "I think we're lost-",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "what",
+			"text": "WHAT?!?! HELL NAHHHHHH...",
+			"boxState": "angry",
+			"portrait": "bf",
+			"speed": 0.015,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "SHHHHHHH Be quiet! It's midnight you know?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "gf"
+		},
+		{
+			"expression": "alsodw",
+			"text": "Also don't worry, let's find someone asking for help",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "what",
+			"text": "BUT THERE'S NO ONE GO OUT AT MIDNIGHT EXCEPT FOR TWO OF US",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "bf"
+		},
+		{
+			"expression": "oh",
+			"text": "Oh...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "guysitting",
+			"text": "What?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		}
+	]
+}

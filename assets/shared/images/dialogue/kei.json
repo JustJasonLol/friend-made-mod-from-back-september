@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"loop_name": "funkcity",
+			"idle_offsets": [
+				-10,
+				145
+			],
+			"idle_name": "funkcity",
+			"anim": "funkcity",
+			"loop_offsets": [
+				0,
+				95
+			]
+		},
+		{
+			"loop_name": "imkei",
+			"idle_offsets": [
+				-10,
+				145
+			],
+			"idle_name": "imkei",
+			"anim": "imkei",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "know",
+			"idle_offsets": [
+				-10,
+				145
+			],
+			"idle_name": "know",
+			"anim": "know",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "stress",
+			"idle_offsets": [
+				-10,
+				145
+			],
+			"idle_name": "stress",
+			"anim": "stress",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "kei"
+}

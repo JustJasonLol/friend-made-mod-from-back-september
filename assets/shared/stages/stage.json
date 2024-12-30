@@ -1,0 +1,26 @@
+{
+	"directory": "stage",
+	"defaultZoom": 0.5,
+	"stageUI": "",
+
+	"boyfriend": [2010, 750],
+	"girlfriend": [1200, 530],
+	"opponent": [620, 850],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [-230, -180],
+	"camera_opponent": [330, -200],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 2,
+
+	"preload": {
+		"images/stagefront": 3,
+		"images/sigmaAgain": 2
+	},
+
+	"_editorMeta": {
+		"dad": "dad",
+		"boyfriend": "bf",
+		"gf": "gf"
+	}
+}

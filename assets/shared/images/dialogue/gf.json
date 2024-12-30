@@ -1,0 +1,90 @@
+{
+	"position": [
+		50,
+		-50
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"image": "girlfriend",
+	"animations": [
+		{
+			"loop_name": "shhmad",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shhmad",
+			"anim": "shhmad",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "ah",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ah",
+			"anim": "ah",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "alsodw",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "alsodw",
+			"anim": "alsodw",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bet",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bet",
+			"anim": "bet",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "guysitting",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "guysitting",
+			"anim": "guysitting",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "noworry",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "noworry",
+			"anim": "noworry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

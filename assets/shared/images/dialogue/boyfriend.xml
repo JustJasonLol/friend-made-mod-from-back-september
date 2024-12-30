@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfriend.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="asleep" x="0" y="0" width="640" height="640"/>
+	<SubTexture name="beer" x="640" y="0" width="640" height="640"/>
+	<SubTexture name="cheer" x="1280" y="0" width="640" height="640"/>
+	<SubTexture name="look" x="1920" y="0" width="640" height="640"/>
+	<SubTexture name="oh" x="0" y="640" width="640" height="640"/>
+	<SubTexture name="what" x="640" y="640" width="640" height="640"/>
+	<SubTexture name="wholeweek" x="1280" y="640" width="640" height="640"/>
+	<SubTexture name="yawn" x="1920" y="640" width="640" height="640"/>
+</TextureAtlas>

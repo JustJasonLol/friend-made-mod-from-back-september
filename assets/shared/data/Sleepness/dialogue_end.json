@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "cheer",
+			"text": "Welp that was fun, You sang very well!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kei",
+			"boxState": "normal",
+			"expression": "imkei",
+			"text": "Thanks, I feel better now"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "bet",
+			"text": "That's great to hear!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "cheer",
+			"text": "Well we had to go now, hope we can meet you again someday"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "kei",
+			"boxState": "normal",
+			"expression": "imkei",
+			"text": "Alright, see ya!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "bet",
+			"text": "Bye!"
+		}
+	]
+}

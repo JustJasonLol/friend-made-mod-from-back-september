@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-1, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [3, 3, 0],
+			"name": "down"
+		},
+		{
+			"offsets": [1, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [0, 0, 3],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": [0, 2, 2, 4, 4, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7]
+		},
+		{
+			"offsets": [0, 0],
+			"indices": [3, 3, 0],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [1, -4],
+			"indices": [3, 3, 0],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Kei_Assets_SHADED",
+	"position": [-200, -560],
+	"healthicon": "kei",
+	"flip_x": false,
+	"healthbar_colors": [43, 40, 137],
+	"camera_position": [220, 510],
+	"sing_duration": 6.1,
+	"scale": 0.5,
+	"_editor_isPlayer": false
+}

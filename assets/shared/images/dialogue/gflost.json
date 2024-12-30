@@ -1,0 +1,25 @@
+{
+	"position": [
+		50,
+		-50
+	],
+	"dialogue_pos": "left",
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"image": "gflost",
+	"animations": [
+		{
+			"loop_name": "lost",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "lost",
+			"anim": "lost",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}
